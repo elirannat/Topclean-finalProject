@@ -1,0 +1,9 @@
+{
+  "NODE_ENV": "production",
+  "PORT": 8181,
+  "TOKEN_GENERATOR": "jwt",
+  "DB_NAME": "eliran_natan",
+  "DB_PASSWORD": "1234qweR!",
+  "LOGGER": "morgan",
+  "DB": "MONGODB"
+}
